@@ -100,3 +100,8 @@ defines the operation of the buzzer.
 <p>
 	<img src="https://github.com/leonardo8787/approach-sensor-in-arduino-with-C/blob/main/WhatsApp%20Image%202021-09-20%20at%2009.34.03.jpeg" width="220" height="350">
 </p>
+
+<h2>sensor tinkercat:</h2>
+<p>
+	<img src="" width="220" height="350">
+</p>
