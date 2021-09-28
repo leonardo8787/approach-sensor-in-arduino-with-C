@@ -103,5 +103,5 @@ defines the operation of the buzzer.
 
 <h2>sensor tinkercat:</h2>
 <p>
-	<img src="https://github.com/leonardo8787/approach-sensor-in-arduino-with-C/blob/main/WhatsApp%20Image%202021-09-28%20at%2011.07.21.jpeg" width="220" height="350">
+	<img src="https://github.com/leonardo8787/approach-sensor-in-arduino-with-C/blob/main/WhatsApp%20Image%202021-09-28%20at%2011.07.21.jpeg" width="400" height="300">
 </p>
